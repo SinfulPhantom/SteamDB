@@ -85,6 +85,9 @@ Game:
 206190, 'Game', 06/03/2013, 000009.99, 'Gunpoint', 'Suspicious Developments', 1, '2GHz', 'Windows, Mac, Linux' 
 295110, 'Game', 01/15/2015, 000019.99, 'H1Z1: Just Survive', 'Daybreak Game Company', 4, 'Intel i3 Dual-Core', 'Windows'
 433850, 'Game', 02/18/2018, 000019.99, 'H1Z1: King of the Kill', 'Daybreak Game Company', 6, 'Intel i5 Quad-Core ', 'Windows'
+000070, 'Game', 11/08/1998, 000009.99, 'Half-Life', 'Valve', 96, '500 mhz processor', 'Windows, Mac, Linux'
+000220, 'Game', 11/16/2004, 000009.99, 'Half-Life', 'Valve', 96, '500 mhz processor', 'Windows, Mac, Linux'
+
 , 'Game', //, 000000.00, '', '', , '', ''
 , 'Game', //, 000000.00, '', '', , '', ''
 , 'Game', //, 000000.00, '', '', , '', ''
