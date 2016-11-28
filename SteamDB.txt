@@ -9,8 +9,90 @@ SteamHardware:
 Software:
 
 News:
+258420, 'Team Fortress 2 Update Released', 11/23/2016, 'An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:
+
+Added Jingle Jam 2016 community medals
+Fixed Casual mode search criteria sometimes not loading properly when starting the game
+Updated the Unusual Cap to support Unusual taunt particle effects
+Unusual taunt effects now follow the player during taunts where the player moves'
+258250, 'Steam Autumn Sale 2016 - Introducing The', 11/23/2016, 'The Steam Autumn Sale 2016 starts now, with great deals across the Steam catalog throughout Black Friday and Cyber Monday*. Come back every day to see new featured titles, or check out the games that are recommended for you. 
+
+In addition to discounts on thousands of great games, join the nomination process for the Steam Awards. Nominate your favorite games across a variety of categories, and earn profile XP and badges for participating! Your nominations will help determine the finalists for each category. In December, you can vote on the winners for each category during the Steam Winter Sale. Learn more about the Steam Awards here.
+
+*Offers end Tuesday November 29th at 10am Pacific.'
+258160, 'Pre-Purchase Now - The Walking Dead: A N', 11/22/2016, 'The Walking Dead: A New Frontier is Now Available for Pre-Purchase on Steam and is 10% off!*
+
+When family is all you have left…how far will you go to protect it?
+
+Four years after society was ripped apart by undead hands, pockets of civilization emerge from the chaos. But at what cost? Can the living be trusted on this new frontier?
+
+*Offer ends at 10AM Pacific Time'
+258150, 'Now Available on Steam - Dishonored 2', 11/22/2106, 'Dishonored 2 is Now Available on Steam!
+
+Dishonored 2 has been updated to version 1.2 that includes many performance and optimization improvements. More details are here. 
+
+Reprise your role as a supernatural assassin in Dishonored 2. 
+
+Praised by PC Gamer as “brilliant”, IGN as “amazing” and “a super sequel, IGN as “amazing” and “a superb sequel”, declared a “masterpiece” by Eurogamer, and hailed “a must-play revenge tale among the best in its class” by Game Informer, Dishonored 2 is the follow up to Arkane Studio''s first-person action blockbuster and winner of more than 100 "Game of the Year" awards, Dishonored.'
+257130, 'Now Available on Steam - Saints Row IV n', 11/22/2016, 'Saints Row IV now supports Workshop and is 75% off!*
+
+The US President must save the Earth from alien overlord Zinyak using an arsenal of superpowers and strange weapons in the wildest open world game ever.
+
+The epic conclusion to the game that changed all the rules! The Saints have gone from the crackhouse to the White House—but the Earth has been invaded and it'’s up to you to free the world from Overlord Zinyak and his alien empire. With homies new and old by your side, and an arsenal of superpowers and strange weapons, you must save the world in the wildest open world game ever!
+
+*Offer ends November 29 at 10AM Pacific Time'
+258080, 'Now Available on Steam - NBA 2KVR Experi', 11/22/2013, 'NBA 2KVR Experience is Now Available on Steam!
+
+NBA 2KVR Experience gives you the thrill of walking right onto the court, with All-Star Paul George providing guidance and tips. Compete in a series of fun and intuitive virtual reality basketball mini-games with numerous Gatorade boosts available to improve your performance.'
+25794, 'Team Fortress 2 Update Released', 11/21/2016, 'An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:
+
+Taunt Unusualifiers apply non-Halloween Unusual effects now that Halloween has ended
+Added a "Jungle" tag for Workshop submissions'
+25788, 'Now Available On Steam - Trouble of Witch', 11/21/2016, 'Trouble Witches Origin - Episode1 Daughters of Amalgam - is Now Available on Steam!
+
+That witches come back undergone a power-up further! New character is entered! All 6stages Arcade version of all re-adjust the resolution of the base in 1280x720! "Magic Circle system" is easy-to-use adjustment! Full voice all by the story undergoes new writing.'
+257780, 'Daily Deal - Moon Hunters, 40% Off', 11/21/2016, 'Today''s Deal: Save 40% on Moon Hunters!*
+
+Look for the deals each day on the front page of Steam. Or follow us on twitter or Facebook for instant notifications wherever you are!
+
+*Offer ends Wednesday at 10AM Pacific Time'
+257530, 'Daily Deal - Quantum Break, 25% Off', 11/20/2016, 'Today''s Deal: Save 25% on Quantum Break!*
+
+Look for the deals each day on the front page of Steam. Or follow us on twitter or Facebook for instant notifications wherever you are!
+
+*Offer ends November 29th at 10AM Pacific Time'
+257520, 'Daily Deal - Seasons after Fall, 40% Off', 11/19/2016, 'Today''s Deal: Save 40% on Seasons after Fall!*
+
+Look for the deals each day on the front page of Steam. Or follow us on twitter or Facebook for instant notifications wherever you are!
+
+*Offer ends November 29th at 10AM Pacific Time'
+25766, 'Team Fortress 2 Update Released', 11/18/2016, 'An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:
+
+Returned Unusual drop chances and possible particles effects to their original values now that Halloween has ended
+Added beta support for the CELT voice codec
+Currently only enabled in community servers that opt-in to the beta
+Server operators can enable CELT usage by setting the below convars, followed by a level change
+sv_use_steam_voice 0
+sv_voicecodec vaudio_celt
+Updated the localization files
+Fixed an occasional client crash with an error message regarding "CL_ReadPreserveEnt"'
+257030, 'Daily Deal - EVE Online - Core Starter P', 11/18/2016, 'Today''s Deal: Save 75% on EVE Online - Core Starter Pack!*
+
+Look for the deals each day on the front page of Steam. Or follow us on twitter or Facebook for instant notifications wherever you are!
+
+*Offer ends Sunday at 10AM Pacific Time'
 
 Video:
+506410, 'Our Kind of Traitor', 'Feature Film', 10/04/2016, 000019.29
+542150, 'Dofus - Book I: Julith', 'Anime (Film)', 11/03/2016, 000009.99
+528710, 'Sharknado: The 4th Awakens (Viva Shark', 'Feature Film', 07/31/2016, 000009.99
+538240, 'Life on the Line', 'Feature Film', 11/18/2016, 000006.99
+532540, 'Speed & Angels', 'Documentary', 09/16/2008, 000007.99
+413210, 'The Mechanical Bride', 'Documentary', 05/13/2016, 000005.99
+538150, 'Cube 2: Hyper Cube', 'Feature Film', 10/11/2013, 000008.99
+545630, 'HUNTER X HUNTER', 'Anime (Series)', 10/02/2011, 000029.12
+522190, "Speed Racer: Race to the Future', 'Feature Film', 01/01/2013, 000009.99
+426400, 'The Crow', 'Feature Film', 02/03/1998, 000008.99
 
 SaleEvent:
 
