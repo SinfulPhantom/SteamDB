@@ -9,23 +9,105 @@ SteamHardware:
 Software:
 
 News:
+258420, 'Team Fortress 2 Update Released', 11/23/2016, 'An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:
+
+Added Jingle Jam 2016 community medals
+Fixed Casual mode search criteria sometimes not loading properly when starting the game
+Updated the Unusual Cap to support Unusual taunt particle effects
+Unusual taunt effects now follow the player during taunts where the player moves'
+258250, 'Steam Autumn Sale 2016 - Introducing The', 11/23/2016, 'The Steam Autumn Sale 2016 starts now, with great deals across the Steam catalog throughout Black Friday and Cyber Monday*. Come back every day to see new featured titles, or check out the games that are recommended for you.
+
+In addition to discounts on thousands of great games, join the nomination process for the Steam Awards. Nominate your favorite games across a variety of categories, and earn profile XP and badges for participating! Your nominations will help determine the finalists for each category. In December, you can vote on the winners for each category during the Steam Winter Sale. Learn more about the Steam Awards here.
+
+*Offers end Tuesday November 29th at 10am Pacific.'
+258160, 'Pre-Purchase Now - The Walking Dead: A N', 11/22/2016, 'The Walking Dead: A New Frontier is Now Available for Pre-Purchase on Steam and is 10% off!*
+
+When family is all you have left…how far will you go to protect it?
+
+Four years after society was ripped apart by undead hands, pockets of civilization emerge from the chaos. But at what cost? Can the living be trusted on this new frontier?
+
+*Offer ends at 10AM Pacific Time'
+258150, 'Now Available on Steam - Dishonored 2', 11/22/2106, 'Dishonored 2 is Now Available on Steam!
+
+Dishonored 2 has been updated to version 1.2 that includes many performance and optimization improvements. More details are here.
+
+Reprise your role as a supernatural assassin in Dishonored 2.
+
+Praised by PC Gamer as “brilliant”, IGN as “amazing” and “a super sequel, IGN as “amazing” and “a superb sequel”, declared a “masterpiece” by Eurogamer, and hailed “a must-play revenge tale among the best in its class” by Game Informer, Dishonored 2 is the follow up to Arkane Studio''s first-person action blockbuster and winner of more than 100 "Game of the Year" awards, Dishonored.'
+257130, 'Now Available on Steam - Saints Row IV n', 11/22/2016, 'Saints Row IV now supports Workshop and is 75% off!*
+
+The US President must save the Earth from alien overlord Zinyak using an arsenal of superpowers and strange weapons in the wildest open world game ever.
+
+The epic conclusion to the game that changed all the rules! The Saints have gone from the crackhouse to the White House—but the Earth has been invaded and it'’s up to you to free the world from Overlord Zinyak and his alien empire. With homies new and old by your side, and an arsenal of superpowers and strange weapons, you must save the world in the wildest open world game ever!
+
+*Offer ends November 29 at 10AM Pacific Time'
+258080, 'Now Available on Steam - NBA 2KVR Experi', 11/22/2013, 'NBA 2KVR Experience is Now Available on Steam!
+
+NBA 2KVR Experience gives you the thrill of walking right onto the court, with All-Star Paul George providing guidance and tips. Compete in a series of fun and intuitive virtual reality basketball mini-games with numerous Gatorade boosts available to improve your performance.'
+25794, 'Team Fortress 2 Update Released', 11/21/2016, 'An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:
+
+Taunt Unusualifiers apply non-Halloween Unusual effects now that Halloween has ended
+Added a "Jungle" tag for Workshop submissions'
+25788, 'Now Available On Steam - Trouble of Witch', 11/21/2016, 'Trouble Witches Origin - Episode1 Daughters of Amalgam - is Now Available on Steam!
+
+That witches come back undergone a power-up further! New character is entered! All 6stages Arcade version of all re-adjust the resolution of the base in 1280x720! "Magic Circle system" is easy-to-use adjustment! Full voice all by the story undergoes new writing.'
+257780, 'Daily Deal - Moon Hunters, 40% Off', 11/21/2016, 'Today''s Deal: Save 40% on Moon Hunters!*
+
+Look for the deals each day on the front page of Steam. Or follow us on twitter or Facebook for instant notifications wherever you are!
+
+*Offer ends Wednesday at 10AM Pacific Time'
+257530, 'Daily Deal - Quantum Break, 25% Off', 11/20/2016, 'Today''s Deal: Save 25% on Quantum Break!*
+
+Look for the deals each day on the front page of Steam. Or follow us on twitter or Facebook for instant notifications wherever you are!
+
+*Offer ends November 29th at 10AM Pacific Time'
+257520, 'Daily Deal - Seasons after Fall, 40% Off', 11/19/2016, 'Today''s Deal: Save 40% on Seasons after Fall!*
+
+Look for the deals each day on the front page of Steam. Or follow us on twitter or Facebook for instant notifications wherever you are!
+
+*Offer ends November 29th at 10AM Pacific Time'
+25766, 'Team Fortress 2 Update Released', 11/18/2016, 'An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:
+
+Returned Unusual drop chances and possible particles effects to their original values now that Halloween has ended
+Added beta support for the CELT voice codec
+Currently only enabled in community servers that opt-in to the beta
+Server operators can enable CELT usage by setting the below convars, followed by a level change
+sv_use_steam_voice 0
+sv_voicecodec vaudio_celt
+Updated the localization files
+Fixed an occasional client crash with an error message regarding "CL_ReadPreserveEnt"'
+257030, 'Daily Deal - EVE Online - Core Starter P', 11/18/2016, 'Today''s Deal: Save 75% on EVE Online - Core Starter Pack!*
+
+Look for the deals each day on the front page of Steam. Or follow us on twitter or Facebook for instant notifications wherever you are!
+
+*Offer ends Sunday at 10AM Pacific Time'
 
 Video:
+506410, 'Our Kind of Traitor', 'Feature Film', 10/04/2016, 000019.29
+542150, 'Dofus - Book I: Julith', 'Anime (Film)', 11/03/2016, 000009.99
+528710, 'Sharknado: The 4th Awakens (Viva Shark', 'Feature Film', 07/31/2016, 000009.99
+538240, 'Life on the Line', 'Feature Film', 11/18/2016, 000006.99
+532540, 'Speed & Angels', 'Documentary', 09/16/2008, 000007.99
+413210, 'The Mechanical Bride', 'Documentary', 05/13/2016, 000005.99
+538150, 'Cube 2: Hyper Cube', 'Feature Film', 10/11/2013, 000008.99
+545630, 'HUNTER X HUNTER', 'Anime (Series)', 10/02/2011, 000029.12
+522190, "Speed Racer: Race to the Future', 'Feature Film', 01/01/2013, 000009.99
+426400, 'The Crow', 'Feature Film', 02/03/1998, 000008.99
 
 SaleEvent:
 
 Game:
 251570, 'Game', 12/13/2013, 000024.99, '7 Days to Die', 'The Fun Pimps', 4, '2.4 Ghz Dual Core CPU', 'Windows'
 385200, 'Game', 07/06/2015, 000001.99, 'Absconding Zatwor', 'Zonitron Productions', 512, 'Intel dual core 2.0 Ghz', 'Windows'
-320140, 'Game', 07/29/2015, 000011.99, 'Absolute Drift', 'Funselektor Labs, Inc. , FlippFly', 512, '2.2GHz Dual Core', 'Windows, Mac, Linux'   
+320140, 'Game', 07/29/2015, 000011.99, 'Absolute Drift', 'Funselektor Labs, Inc. , FlippFly', 512, '2.2GHz Dual Core', 'Windows, Mac, Linux'
 003730, 'Game', 03/28/2000, 000004.99, 'Aliens versus Predator Classic 2000', 'Rebellion', 128, 'Pentium II 400 MMX', 'Windows'
 010680, 'Game', 02/16/2010, 000014.99, 'Aliens vs Predator', 'Rebellion', 2, '3.4 GHz Intel Pentium 4', 'Windows'
 346110, 'Game', 06/02/2015, 000029.99, 'ARK: Survival Evolved', 'Studio Wildcard', 4, '2 GHz Dual-Core 64-bit CPU', 'Windows, Mac, Linux'
 407530, 'Game', 03/15/2016, 000029.99, 'ARK: Survival Of The Fittest', 'Studio Wildcard', 4, '2 GHz Dual-Core 64-bit CPU', 'Windows, Mac, Linux'
 033910, 'Game', 06/29/2009, 000012.99, 'Arma 2', 'Bohemia Interactive', 1, 'Dual Core CPU (Intel Pentium 4 3.0 GHz, Intel Core 2.0 GHz, AMD Athlon 3200+ or faster)', 'Windows'
 033930, 'Game', 06/29/2010, 000019.99, 'Arma 2: Operation Arrowhead', 'Bohemia Interactive', 1, 'Intel Core 2.4 GHz or AMD Dual-Core Athlon 2.5 GHz', 'Windows'
-107410, 'Game', 09/12/2013, 000039.99, 'Arma 3', 'Bohemia Interactive', 4, 'Intel Dual-Core 2.4 GHz or AMD Dual-Core Athlon 2.5 GHz', 'Windows' 
-284160, 'Game', 05/29/2015, 000024.99, 'BeamNG.drive', 'BeamNG', 4, 'Intel i3', 'Windows' 
+107410, 'Game', 09/12/2013, 000039.99, 'Arma 3', 'Bohemia Interactive', 4, 'Intel Dual-Core 2.4 GHz or AMD Dual-Core Athlon 2.5 GHz', 'Windows'
+284160, 'Game', 05/29/2015, 000024.99, 'BeamNG.drive', 'BeamNG', 4, 'Intel i3', 'Windows'
 104200, 'Game', 05/06/2011, 000001.99, 'BEEP', 'Big Fat Alien', 2, '2.2Ghz Dual-Core', 'Windows'
 346010, 'Game', 01/28/2015, 000007.99, 'Besiege', 'Spiderling Studios', 2, '2.2Ghz Dual Core', 'Windows'
 250900, 'Game', 11/04/2014, 000014.99, 'The Binding of Isaac: Rebirth', 'Nicalis, Inc. , Edmund McMillen', 2, 'Core 2 Duo', 'Windows, Mac, Linux'
@@ -34,14 +116,14 @@ Game:
 008850, 'Game', 02/09/2010, 000019.99, 'BioShock 2', '2K Marin', 2, 'AMD Athlon 64 Processor 3800+ 2.4Ghz', 'Windows, Mac'
 409720, 'Game', 09/15/2016, 000019.99, 'BioShock 2 Remastered', '2K Marin', 4, 'Intel E6750 Core 2 Duo 2.66 GHz', 'Windows'
 008870, 'Game', 03/25/2013, 000029.99, 'Bioshock Infinite', 'Irrational Games', 2, 'Intel Core 2 DUO 2.4 GHz', 'Windows, Mac, Linux'
-241240, 'Game', 07/07/2014, 000006.99, 'Contraption Maker', 'Spotkin', 2, '1.7Ghz or Higher', 'Windows, Mac, Linux'  
+241240, 'Game', 07/07/2014, 000006.99, 'Contraption Maker', 'Spotkin', 2, '1.7Ghz or Higher', 'Windows, Mac, Linux'
 000010, 'Game', 11/01/2000, 000009.99, 'Counter-Strike', 'Valve', 96, '500 mhz processor', 'Windows, Mac, Linux'
 000080, 'Game', 03/01/2004, 000009.99, 'Counter-Strike: Condition Zero', 'Valve', 96, '500 mhz processor', 'Windows, Mac, Linux'
 000100, 'Game', 03/01/2004, 000009.99, 'Counter-Strike: Condition Zero Deleted Scenes', 'Valve', 96, '500 mhz processor', 'Windows, Mac, Linux'
 000730, 'Game', 08/21/2012, 000014.99, 'Counter-Strike: Global Offensive', 'Valve', 2, 'Intel® Core™ 2 Duo E6600', 'Windows, Mac, Linux'
-000240, 'Game', 11/01/2004, 000019.99, 'Counter-Strike: Source', 'Valve', 512, '1.7 GHz Processor', 'Windows, Mac, Linux' 
+000240, 'Game', 11/01/2004, 000019.99, 'Counter-Strike: Source', 'Valve', 512, '1.7 GHz Processor', 'Windows, Mac, Linux'
 011390, 'Game', 08/27/2009, 000009.99, 'Crash Time 2', 'RTL Interactive', 1, '3.2 GHz Processor', 'Windows'
-000030, 'Game', 05/01/2003, 000004.99, 'Day of Defeat', 'Valve', 96, '500 mhz processor', 'Windows, Mac, Linux' 
+000030, 'Game', 05/01/2003, 000004.99, 'Day of Defeat', 'Valve', 96, '500 mhz processor', 'Windows, Mac, Linux'
 000300, 'Game', 07/12/2010, 000009.99, 'Day of Defeat: Source', 'Valve', 512, '1.7 GHz Processor', 'Windows, Mac'
 221100, 'Game', 12/16/2013, 000034.99, 'DayZ', 'Bohemia Interactive', 2, 'Intel Dual-Core 2.4 GHz', 'Windows'
 466740, 'Game', 11/24/2016, 000014.99, 'ARAYA', 'MAD Virtual Reality Studio', 4, '3.20 Dual Core Processor', 'Windows 7 / 8 / 8.1 / 10'
@@ -56,9 +138,9 @@ Game:
 528640, 'Game', 11/25/2016, 000039.99, 'Rugby Union Team Manager 2017', 'Alternative Software Ltd', 2, 'Intel Core 1.8GHz', 'Mac OSX 10.8'
 550240, 'Game', 11/25/2016, 000005.99, 'After Life - Story of a Father', 'Green Sawdust', 2, 'Intel i3 or AMD 3870 generation processors or higher ', 'Windows 7 32bit'
 548950, 'Game', 11/25/2016, 000004.99, 'Fallen Mage', 'dev4play', 2, 'Intel Core i3', 'Windows XP'
-017470, 'Game', 10/20/2008, 000019.99, 'Dead Space', 'EA Redwood Shores', 1, '2.8 GHz or faster', 'Windows' 
+017470, 'Game', 10/20/2008, 000019.99, 'Dead Space', 'EA Redwood Shores', 1, '2.8 GHz or faster', 'Windows'
 047780, 'Game', 01/25/2011, 000019.99, 'Dead Space 2', 'Visceral Games', 1, '2.8 GHz processor or equivalent', 'Windows'
-000040, 'Game', 06/01/2001, 000004.99, 'Deathmatch Classic', 'Valve', 96, '500 mhz processor', 'Windows, Mac, Linux' 
+000040, 'Game', 06/01/2001, 000004.99, 'Deathmatch Classic', 'Valve', 96, '500 mhz processor', 'Windows, Mac, Linux'
 224600, 'Game', 06/04/2014, 000000.00, 'Defiance', 'Trion Worlds, Inc.', 2,  'Intel Core 2 Duo 2.0 GHz', 'Windows'
 096100, 'Game', 03/18/2016, 000001.99, 'Defy Gravity', 'Paul Fisch', 512, '1.5Ghz', 'Windows'
 238010, 'Game', 10/25/2013, 000019.99, 'Deus Ex: Human Revolution', 'Eidos Montreal', 2, '2GHz Dual Core', 'Windows, Mac'
@@ -73,8 +155,8 @@ Game:
 233270, 'Game', 03/01/2013, 000014.99, 'Far Cry 3: Blood Dragon', 'Ubisoft Montreal', 2, '2.66 GHz Intel® Core™2 Duo E6700', 'Windows'
 246840, 'Game', 05/18/2005, 000007.99, 'FATE', 'WildTangent', 512, '800 MHz', 'Windows'
 276890, 'Game', 08/08/2008, 000007.99, 'FATE: Undiscovered Realms', 'WildTangent', 512, '800 MHz', 'Windows'
-391270, 'Game', 03/20/2014, 000000.00, 'Fingerbones', 'David Szymanski', NULL, 'Intel i3', 'Windows' 
-242760, 'Game', 05/30/2014, 000014.99, 'The Forest', 'Endnight Games Ltd.', 4, 'Intel Dual-Core 2.4 GHz', 'Windows', 
+391270, 'Game', 03/20/2014, 000000.00, 'Fingerbones', 'David Szymanski', NULL, 'Intel i3', 'Windows'
+242760, 'Game', 05/30/2014, 000014.99, 'The Forest', 'Endnight Games Ltd.', 4, 'Intel Dual-Core 2.4 GHz', 'Windows',
 310380, 'Game', 11/22/2016, 000000.00, 'Fractured Space', 'Edge Case Games, Ltd.', 4, '2.3+ GHz', 'Windows'
 268650, 'Game', 08/08/2014, 000019.99, 'From The Depths', 'Brilliant Skies, Ltd.', 4, 'Intel Core2 Duo 2.0 GHz', 'Windows, Mac, Linux'
 004000, 'Game', 11/29/2006, 000009.99, 'Garrys Mod', 'Facepunch Studios', 2, '1.8 GHz', 'Windows, Mac, Linux'
@@ -82,11 +164,10 @@ Game:
 332500, 'Game', 01/08/2015, 000019.99, 'GRAV', 'BitMonster, Inc.', 8, 'Intel Core 2 Duo 2 GHz', 'Windows'
 355150, 'Game', 03/30/2015, 000001.99, 'Gravilon', 'gravdev', 1, 'Dual-core 1.2gHz', 'Windows, Mac, Linux'
 396890, 'Game', 12/29/2015, 000000.99, 'Gridworld', 'DopplerFrog', 8, '2.0 Ghz Quad Core CPU', 'Windows, Linux'
-206190, 'Game', 06/03/2013, 000009.99, 'Gunpoint', 'Suspicious Developments', 1, '2GHz', 'Windows, Mac, Linux' 
-
-, 'Game', //, 000000.00, '', '', , '', ''
-, 'Game', //, 000000.00, '', '', , '', ''
-, 'Game', //, 000000.00, '', '', , '', ''
+206190, 'Game', 06/03/2013, 000009.99, 'Gunpoint', 'Suspicious Developments', 1, '2GHz', 'Windows, Mac, Linux'
+365590, 'Game', 03/07/2016, 000049.99, 'Tom Clancy''s The Division', 'Massive Entertainment', 6, 'Intel Core i5-2400 | AMD FX-6100, or better', 'Windows'
+379720, 'Game', 05/12/2016, 000059.99, 'DOOM', 'id Software', 8, 'Intel Core i5-2400/AMD FX-8320 or better', 'Windows'
+391220, 'Game', 02/09/2016, 000059.99, 'Rise of the Tomb Raider: 20 Year Celebration', 'Crystal Dynamics', 6, 'Intel Core i3-2100 or AMD equivalent', 'Windows'
 , 'Game', //, 000000.00, '', '', , '', ''
 , 'Game', //, 000000.00, '', '', , '', ''
 , 'Game', //, 000000.00, '', '', , '', ''
@@ -104,7 +185,7 @@ Curator:
 '/r/ultrawidemasterrace Group', 2149
 'Critiquing Doge', 16498
 'Just Good PC Games', 291164
-'TechRaptor', 11069 
+'TechRaptor', 11069
 'Kotaku Recommends', 71669
 'Immortal HD's Top Picks', 24753
 'FRANKIEonPCin1080p', 271967
