@@ -121,16 +121,17 @@ Game:
 374040, 'Game', 02/25/2016, 000014.99, 'Portal Knights', 'Keen Games', 4, 'Intel Core 2 Duo E8400 @ 3.0 GHz', 'Windows'
 234190, 'Game', 04/29/2013, 000004.99, 'Receiver', 'Wolfire Games', 1, '2.0 GHz', 'Windows, Mac, Linux'
 020530, 'Game', 09/18/2001, 000009.99, 'Red Faction', 'Volition, Inc.', 64, 'Pentium II 400 MHz', 'Windows'
-
-, 'Game', //, 000000.00, '', '', , '', ''
-, 'Game', //, 000000.00, '', '', , '', ''
-, 'Game', //, 000000.00, '', '', , '', ''
-, 'Game', //, 000000.00, '', '', , '', ''
-, 'Game', //, 000000.00, '', '', , '', ''
-, 'Game', //, 000000.00, '', '', , '', ''
-, 'Game', //, 000000.00, '', '', , '', ''
-
-
+020550, 'Game', 04/09/2003, 000009.99, 'Red Faction II', 'Volition, Inc.', 128, 'Pentium II 400 MHz', 'Windows'
+055110, 'Game', 06/06/2011, 000019.99, 'Red Faction: Armageddon', 'Volition, Inc.', 2, '2GHz Dual Core', 'Windows'
+020500, 'Game', 09/15/2009, 000019.99, 'Red Faction: Guerrilla', 'Volition, Inc.', 1, '2GHz Dual Core', 'Windows'
+411560, 'Game', 12/04/2015, 000000.99, 'Reveal the Deep', 'Lazy Monday Games', 1, '1.2GHz', 'Windows, Mac, Linux'
+000060, 'Game', 11/01/2000, 000004.99, 'Ricochet', 'Valve', 96, '500 mhz procecssor', 'Windows, Mac, Linux'
+301520, 'Game', 07/08/2014, 000000.00, 'Robocraft', 'Freejam', 4, 'Intel Dual Core', 'Windows, Mac, Linux'
+252950, 'Game', 07/07/2015, 000019.99, 'Rocket League', 'Psyonix, Inc.', 2, '2.4 GHz Dual core', 'Windows, Mac, Linux'
+252490, 'Game', 12/11/2013, 000019.99, 'Rust', 'Facepunch Studios', 8, '2 ghz', 'Windows, Mac, Linux' 
+009480, 'Game', 01/28/2009, 000009.99, 'Saints Row 2', 'Voliton, Inc.', 1, '2.0 GHz', 'Windows, Linux'
+055230, 'Game', 11/14/2011, 000009.99, 'Saints Row: The Third', 'Volition, Inc.', 2, '2GHz', 'Windows, Linux'
+206420, 'Game', 08/19/2013, 000014.99, 'Saints Row IV', 'Deep Silver Volition', 4, 'Intel Core 2 Quad Q6600', 'Windows, Linux'
 DLC:
 
 VideoGenre:
