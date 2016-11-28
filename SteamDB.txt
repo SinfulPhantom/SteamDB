@@ -84,7 +84,7 @@ Game:
 396890, 'Game', 12/29/2015, 000000.99, 'Gridworld', 'DopplerFrog', 8, '2.0 Ghz Quad Core CPU', 'Windows, Linux'
 206190, 'Game', 06/03/2013, 000009.99, 'Gunpoint', 'Suspicious Developments', 1, '2GHz', 'Windows, Mac, Linux' 
 295110, 'Game', 01/15/2015, 000019.99, 'H1Z1: Just Survive', 'Daybreak Game Company', 4, 'Intel i3 Dual-Core', 'Windows'
-
+433850, 'Game', 02/18/2018, 000019.99, 'H1Z1: King of the Kill', 'Daybreak Game Company', 6, 'Intel i5 Quad-Core ', 'Windows'
 , 'Game', //, 000000.00, '', '', , '', ''
 , 'Game', //, 000000.00, '', '', , '', ''
 , 'Game', //, 000000.00, '', '', , '', ''
