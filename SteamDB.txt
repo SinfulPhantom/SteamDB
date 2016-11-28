@@ -87,7 +87,11 @@ Game:
 433850, 'Game', 02/18/2018, 000019.99, 'H1Z1: King of the Kill', 'Daybreak Game Company', 6, 'Intel i5 Quad-Core ', 'Windows'
 000070, 'Game', 11/08/1998, 000009.99, 'Half-Life', 'Valve', 96, '500 mhz processor', 'Windows, Mac, Linux'
 000220, 'Game', 11/16/2004, 000009.99, 'Half-Life', 'Valve', 96, '500 mhz processor', 'Windows, Mac, Linux'
-
+000320, 'Game', 11/01/2004, 000004.99, 'Half-Life 2: Deathmatch', 'Valve', 256, '1.2 GHz Processor', 'Windows, Linux'
+000380, 'Game', 06/01/2006, 000007.99, 'Half-Life 2: Episode 1', 'Valve', 512, '1.7 GHz Processor', 'Windows, Mac'
+000420, 'Game', 10/10/2007, 000007.99, 'Half-Life 2: Episode 2', 'Valve', 512, '1.7 GHz Processor', 'Windows, Mac'
+000340 ,'Game', 10/27/2005, 000000.00, 'Half-Life 2: Lost Coast', 'Valve', 1,  '2.4GHz', 'Windows'
+000360, 'Game', 01/28/2006, 000009.99, 'Half-Life Deathmatch: Source', 'Valve', 1, '1.7 GHz Processor', 'Windows, Mac, Linux'
 , 'Game', //, 000000.00, '', '', , '', ''
 , 'Game', //, 000000.00, '', '', , '', ''
 , 'Game', //, 000000.00, '', '', , '', ''
@@ -102,6 +106,16 @@ DLC:
 VideoGenre:
 
 GameGenre:
+251570, 'Action'
+251570, 'Adventure'
+251570, 'Indie'
+320140, 'Action'
+320140, 'Indie'
+320140, 'Racing' 
+003730, 'Action' 
+346110, 'RPG'
+346110, 'Action'
+346110, 'Early Access' 
 
 Curator:
 'PC-Gamer', 318715
