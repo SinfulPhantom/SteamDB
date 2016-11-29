@@ -81,6 +81,54 @@ Fixed an occasional client crash with an error message regarding "CL_ReadPreserv
 Look for the deals each day on the front page of Steam. Or follow us on twitter or Facebook for instant notifications wherever you are!
 
 *Offer ends Sunday at 10AM Pacific Time'
+258810, 'Steam Autmn Sale Continues on Cyber Mond', 11/28/2016, 'The Steam Autumn Sale 2016 continues for Cyber Monday, with great deals across the Steam catalog. This is the final day to take advantage of Autumn Sale discounts!*
+
+In addition to discounts on thousands of great games, join the nomination process for the Steam Awards. Nominate your favorite games across a variety of categories, and earn profile XP and badges for participating! Your nominations will help determine the finalists for each category. In December, you can vote on the winners for each category during the Steam Winter Sale. Learn more about the Steam Awards here.
+
+*Offers end Tuesday November 29th at 10am Pacific.'
+257430, 'Now Available On Steam - Killing Floor 2', 11/18/2018, 'Killing Floor 2 is Now Available on Steam!
+
+6-player co-op Zed-slaughtering mayhem. And now, 12-player Versus Survival mode, too - now you can BE the Zeds!'
+256980, 'Now Available On Steam - Colt Express', 11/17/2016, 'Colt Express is Now Available on Steam!
+
+Plan your hold up, adapt your scheme, get rich and get out! The game inspired from the famous train robbery boardgame!'
+257050, 'Klei Publisher Weekend - Up To 75% Off!', 11/17/2016, 'Save up to 75% on select Klei titles as part of the Klei Entertainment Games Publisher Weekend*!
+
+*Offer ends Monday at 10AM Pacific Time'
+256610, 'Weekend Deal - Tomb Raider Franchise, Up', 11/17/2016, 'Save up to 75% on Tomb Raider games as part of this week's Weekend Deal*!
+
+*Offer ends Monday at 10AM Pacific Time'
+257060, 'NOw Available On Steam - SHENZEN I/O, 10' 11/17/2016, 'SHENZHEN I/O is Now Available on Steam and is 10% off!*
+
+BUILD CIRCUITS. WRITE CODE. RTFM.
+
+*Offer ends November 24 at 10AM Pacific Time'
+256780, 'Daily Deal - Avernum: Escape From the Pi', 11/17/2016, 'Today's Deal: Save 75% on Avernum: Escape From the Pit!*
+
+Look for the deals each day on the front page of Steam. Or follow us on twitter or Facebook for instant notifications wherever you are!
+
+*Offer ends Saturday at 10AM Pacific Time'
+25580, 'Streamline - Free For 24 Hours', 11/17/2016, 'Get Streamline, a brand new frantically fun multiplayer action game, for FREE from now until November 18th at 9am Pacific. Up to 16 players can compete in a variety of game modes, with fast, fluid free running movement, deep Twitch integration, and ridiculous character customizations. Add it to your account now and play it for free forever!'
+257000, 'Now Available on Steam - Duck Force', 11/17/2016, 'Duck Force is Now Available on Steam!
+
+Experience an amazing adventure in the rough stone age, where the bunny people under rule of a maniacal leader strives for the absolute power. Fly through dry deserts and rocky canyons full of challenges and evolve from a lame duck to a majestic flight artists.'
+25697, 'Now Available on Steam - Planet Coaster', 11/17/2016, 'Planet Coaster is Now Available on Steam!
+
+Planet Coaster® - the future of coaster park simulation games has arrived! Surprise, delight and thrill incredible crowds as you build your coaster park empire - let your imagination run wild, and share your success with the world.'
+25696, 'Pre-Purchase Now - Total War: WARHAMMER ', 11/17/2016, 'Total War: WARHAMMER - Realm of The Wood Elves is Now Available for Pre-Purchase on Steam and is 10% off!*
+
+The Realm of the Wood Elves includes:
+New Wood Elves Race in the Grand Campaign 
+New additional Race-specific currency: Amber 
+Wonder-based Campaign victory condition 
+Wood Elves may conquer any region on the map 
+Two New Playable Legendary Lords: Orion and Durthu 
+Two new Lord types with deep-specialisation skill trees 
+Three new Hero types with deep-specialisation skill trees 
+Comprehensive Wood Elves army roster 
+Adds an additional campaign map to the game with the unique ‘Season of Revelations’ Wood Elves story Campaign 
+New Unique Monsters, Heroes, Magic and Game Features
+*Discount ends when content is released.'
 
 Video:
 506410, 'Our Kind of Traitor', 'Feature Film', 10/04/2016, 000019.29
@@ -93,6 +141,97 @@ Video:
 545630, 'HUNTER X HUNTER', 'Anime (Series)', 10/02/2011, 000029.12
 522190, "Speed Racer: Race to the Future', 'Feature Film', 01/01/2013, 000009.99
 426400, 'The Crow', 'Feature Film', 02/03/1998, 000008.99
+371270, 'The Quiet Girl''s Guide to Violence', 'Short Film', 09/22/2012, 000001.99
+452740, 'The Perks of BEing a Wallflower', 'Feature Film', 02/12/2013, 00013.99
+417590, 'Ender''s Game', 'Feature Film', 11/01/2013, 000013.99
+417670, 'Red', 'Feature Film', 10/15/2010, 000013.99
+417690, 'The Hurt Locker', 'Feature Film', 06/29/2009, 000013.99
+417790, 'Warm Bodies', 'Feature Film', 02/01/2013, 000013.99
+416940, 'The Cabin in the Woods', 'Feature Film', 04/13/2012, 000013.99
+551210, 'Nightcap', 'TV Series', 11/11/2016, 000021.51
+538980, 'Man Up', 'Feature Film', 02/02/2016, 000015.99
+433270, 'JourneyQuest Season One', 'Web Series', 10/01/2010, 000002.99
+498210, 'Red vs Blue: The Blood Gulch Chronicles', 'Machinimation', 04/01/2003, 000009.99
+413250, 'Island Queen', 'Short Film', 05/04/2012, 000001.99
+41920, '3 Suicides of Paul Hamilton', 'Short Film', 11/11/2015, 000001.99
+394920, 'Future Farmer', 'Short Film', 08/01/2008, 000001.99
+506370, 'Hell or High Water', 'Feature Film', 11/01/2012, 000019.29
+426450, 'Sundown: Vampire in Retreat', 'Feature Film', 10/23/1991, 000003.99
+531830, 'Traded', 'Feature Film', 06/10/2016, 000003.99
+504680, 'Harcore Henry', 04/08/2016, 'Feature Film', 000005.99
+366120, 'Mad MAx: Fury Road', 'Feature Film', 05/15/2015, 000014.99
+439650, 'THE LAST -NARUTO THE MOVIE-', 'Anime (Film)', 12/06/2014, 000012.99
+538970, 'Step Up All In', 'Feature Film', 10/21/2014, 000010.99
+541460, 'The People Vs. George Lucas', 'Documentary', 10/25/2011, 000008.99
+417570, 'This is Spinal Tap', 'Documentary', 03/02/1984, 000003.99
+498640, 'Kat Williams: The Pimp Chronicles Pt.1', 'Stand-Up Comedy', 09/16/2006, 000009.99
+382680, 'Men With Beards', 'Documentary' 11/01/2013, 000005.99
+510970, 'Kevin Nealon: Now Hear Me Out!', 'Stand-Up Comedy', 10/06/2009, 000009.99
+452370, 'Kat Williams: Pimpadelic', 'Stand-Up Comedy', 10/13/2009, 000003.99
+422550, 'Iverson', 'Documentary', 12/08/2015, 000009.99
+492510, 'RWBY: Volume 3', 'Anime (Series)', 05/03/2016, 000009.99
+492470, 'RWBY: Volume 2', 'Anime (Series)', 12/06/2014, 000008.99
+490090, 'RWBY: Volume 1', 'Anime (Series)', 11/12/2011, 000006.99
+382640, 'Cinema Six', 'Feature Film', 11/19/2013, 000005.99
+426380, 'Cop Land', 'Feature Film', 04/21/1998, 000003.99
+417560, 'Pulp Fiction', 'Feature Film', 10/14/1994, 000010.99
+452750, 'The Punisher', 'Feature Film', 09/07/2004, 000010.99
+419330, 'Sin City', 'Feature Film', 04/01/2005, 000010.99
+419360, 'Resivour Dogs', 'Feature Film', 10/23/1992, 000010.99
+421560, 'The Blair Witch Project', 'Feature Film', 10/22/1999, 000010.99
+452350, 'The Haunting in Connecticut', 'Feature Film',07/14/2009, 000010.99
+538960, 'Suicide Kings', 'Feature Film', 05/01/2009, 000008.99
+490850, 'Exit Humanity', 'Feature Film', 06/16/2012, 000009.99
+382780, 'Steve Chong Finds Out That Suicide is a', 'Feature Film', 04/29/2014, 000005.99
+535960, 'Sailor Moon Crystal', 'Anime (Series)', 07/05/2014, 000029.26
+530400, 'Battle Disc', 'Anime (Series)', 10/14/2016, 000019.99
+516050, 'Ten Little Roosters', 'Web Series', 11/05/2014, 000009.99
+441540, 'JourneyQuest Season Two', 'Web Series', 08/10/2012, 000003.99
+361220, 'Football Manager Ruined My Life', 'Stand-Up Comedy', 05/08/2015, 000009.99
+452700, 'Blue Mountain State: The Rise of Thadla', 'Feature Film', 02/02/2016, 000009.99
+387640, 'THE WORST YEAR OF MY LIFE', 'Feature Film', 01/13/2014, 000005.99
+452300, 'The Graduate', 'Feature Film', 12/22/1998, 000003.99
+423610, 'Pray for Diamonds', 'Short Film', 08/15/2014, 000001.99
+394930, 'God''s Work', 'Short Film', 02/01/2007, 000001.99
+374570, 'Kung Fury', 'Short Film', 05/28/2015, 000000.00
+495410, 'Kikoriki', 'TV Series', 05/07/2004, 000009.99
+528810, 'Crunch Time', 'Web Series', 09/13/2016, 000011.94
+549290, 'Con Man', 'Web Series', 11/08/2016, 000010.01
+518200, 'Stand Up Empire', 'Web Series', 06/06/2016, 000007.96
+518220, 'X-ray & Vav: Seasons 1 & 2', 'Web Seires', 01/01/2015, 000009.99
+517030, 'The Adventures of Super Mario Bros. 3', 'TV Series', 01/01/1989, 000025.87
+418380, 'The Color Out of Space', 'Feature Film', 08/21/2012, 000005.99
+540570, 'Dancing at the Blue Iguana', 'Feature Film', 03/05/2013, 000008.99
+382690,' How He Got Away With It', 'Featuer Film', 03/24/2014, 000005.99
+427390, 'Deck the Halls', 'Feature Film', 12/20/2011, 000007.49
+506330, 'The Conversation', 'Feature Film', 12/01/2010, 000003.99
+382740, 'The Poisioning', 'Feature Film', 03/10/2014, 000005.99
+538160, 'Maggie', 'Feature Film', 06/30/2015, 000010.99
+538140, 'Cube', 'Feature Film', 08/01/2008, 000013.99
+387560, 'Forever''s End', 'Feature Film', 10/14/2014, 00005.99
+426350, 'Crank', 'Feature Film', 01/09/2007, 000010.99
+452760, 'The Way of the Gun', 'Feature Film', 01/02/2001, 000013.99
+453450, 'Sicario', 'Feature Film', 01/05/2016, 000018.29
+538130, 'The Faculty', 'Feature Film', 01/08/2013, 000008.99
+441160, 'Saw', 'Feature Film', 02/15/2005, 000010.99
+441170, 'Saw 2', 'Feature Film', 02/14/2006, 000010.99
+421450, 'Saw 3', 'Feature Film', 01/23/2007, 000010.99
+421460, 'Saw 4', 'Feature Film', 01/22/2008, 000010.99
+421470, 'Saw 5', 'Feature Film', 01/20/2009, 000010.99
+421480, 'Saw 6', 'Feature Film', 01/26/2010, 000010.99
+421490, 'Saw: The Final Chapter', 'Feature Film', 01/25/2011, 000010.99
+421530, 'Scream', 'Feature Film', 12/03/1997, 000010.99
+452620, 'Scream 2', 'Feature Film', 04/04/1998, 000008.99
+421540, 'Scream 3', 'Feature Film', 04/20/2004, 000008.99
+452810, 'The Wicker Man', 'Feature Film', 11/30/199, 000003.99
+528470, 'The Transformers: The Movie', 'Feature Film', 09/13/2016, 000009.99
+534140, 'Howard Lovecraft and the Frozen Kingdom', 'Feature Film', 09/17/2016, 000009.99
+387600, 'Don''t Know Yet', 'Feature Film', 08/12/2014, 000005.99
+387630, 'THE HISTORIAN', 'Feature Film', 03/14/2014, 000005.99
+387660, '500 MILES', 'Feature Film', 08/10/2014, 000005.99
+387490, 'Home, James', 'Feature Film', 07/10/2014, 000005.99
+387590, 'Diving Normal', 'Feature Film', 01/15/2015, 000005.99
+426500, 'Twilight', 'Feature Film', 06/01/2009, 000013.99
 
 SaleEvent:
 
