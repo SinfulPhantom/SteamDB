@@ -81,6 +81,54 @@ Fixed an occasional client crash with an error message regarding "CL_ReadPreserv
 Look for the deals each day on the front page of Steam. Or follow us on twitter or Facebook for instant notifications wherever you are!
 
 *Offer ends Sunday at 10AM Pacific Time'
+258810, 'Steam Autmn Sale Continues on Cyber Mond', 11/28/2016, 'The Steam Autumn Sale 2016 continues for Cyber Monday, with great deals across the Steam catalog. This is the final day to take advantage of Autumn Sale discounts!*
+
+In addition to discounts on thousands of great games, join the nomination process for the Steam Awards. Nominate your favorite games across a variety of categories, and earn profile XP and badges for participating! Your nominations will help determine the finalists for each category. In December, you can vote on the winners for each category during the Steam Winter Sale. Learn more about the Steam Awards here.
+
+*Offers end Tuesday November 29th at 10am Pacific.'
+257430, 'Now Available On Steam - Killing Floor 2', 11/18/2018, 'Killing Floor 2 is Now Available on Steam!
+
+6-player co-op Zed-slaughtering mayhem. And now, 12-player Versus Survival mode, too - now you can BE the Zeds!'
+256980, 'Now Available On Steam - Colt Express', 11/17/2016, 'Colt Express is Now Available on Steam!
+
+Plan your hold up, adapt your scheme, get rich and get out! The game inspired from the famous train robbery boardgame!'
+257050, 'Klei Publisher Weekend - Up To 75% Off!', 11/17/2016, 'Save up to 75% on select Klei titles as part of the Klei Entertainment Games Publisher Weekend*!
+
+*Offer ends Monday at 10AM Pacific Time'
+256610, 'Weekend Deal - Tomb Raider Franchise, Up', 11/17/2016, 'Save up to 75% on Tomb Raider games as part of this week's Weekend Deal*!
+
+*Offer ends Monday at 10AM Pacific Time'
+257060, 'NOw Available On Steam - SHENZEN I/O, 10' 11/17/2016, 'SHENZHEN I/O is Now Available on Steam and is 10% off!*
+
+BUILD CIRCUITS. WRITE CODE. RTFM.
+
+*Offer ends November 24 at 10AM Pacific Time'
+256780, 'Daily Deal - Avernum: Escape From the Pi', 11/17/2016, 'Today's Deal: Save 75% on Avernum: Escape From the Pit!*
+
+Look for the deals each day on the front page of Steam. Or follow us on twitter or Facebook for instant notifications wherever you are!
+
+*Offer ends Saturday at 10AM Pacific Time'
+25580, 'Streamline - Free For 24 Hours', 11/17/2016, 'Get Streamline, a brand new frantically fun multiplayer action game, for FREE from now until November 18th at 9am Pacific. Up to 16 players can compete in a variety of game modes, with fast, fluid free running movement, deep Twitch integration, and ridiculous character customizations. Add it to your account now and play it for free forever!'
+257000, 'Now Available on Steam - Duck Force', 11/17/2016, 'Duck Force is Now Available on Steam!
+
+Experience an amazing adventure in the rough stone age, where the bunny people under rule of a maniacal leader strives for the absolute power. Fly through dry deserts and rocky canyons full of challenges and evolve from a lame duck to a majestic flight artists.'
+25697, 'Now Available on Steam - Planet Coaster', 11/17/2016, 'Planet Coaster is Now Available on Steam!
+
+Planet Coaster® - the future of coaster park simulation games has arrived! Surprise, delight and thrill incredible crowds as you build your coaster park empire - let your imagination run wild, and share your success with the world.'
+25696, 'Pre-Purchase Now - Total War: WARHAMMER ', 11/17/2016, 'Total War: WARHAMMER - Realm of The Wood Elves is Now Available for Pre-Purchase on Steam and is 10% off!*
+
+The Realm of the Wood Elves includes:
+New Wood Elves Race in the Grand Campaign 
+New additional Race-specific currency: Amber 
+Wonder-based Campaign victory condition 
+Wood Elves may conquer any region on the map 
+Two New Playable Legendary Lords: Orion and Durthu 
+Two new Lord types with deep-specialisation skill trees 
+Three new Hero types with deep-specialisation skill trees 
+Comprehensive Wood Elves army roster 
+Adds an additional campaign map to the game with the unique ‘Season of Revelations’ Wood Elves story Campaign 
+New Unique Monsters, Heroes, Magic and Game Features
+*Discount ends when content is released.'
 
 Video:
 506410, 'Our Kind of Traitor', 'Feature Film', 10/04/2016, 000019.29
