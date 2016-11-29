@@ -209,6 +209,9 @@ Game:
 206190, 'Game', 06/03/2013, 000009.99, 'Gunpoint', 'Suspicious Developments', 1, '2Ghz', 'Windows, Mac, Linux'
 434570, 'Game', 02/01/2016, 000000.99, 'Blood and Bacon', 'Big Corporation', 1, '1.2 GHz Pentium 4 Minimum', 'Windows'
 231160, 'Game', 05/30/2013, 000014.99, 'The Swapper', 'Olli Harjola', 1, 'Dual Core CPU', 'Windows, Mac, Linux'
+365590, 'Game', 03/07/2016, 000049.99, 'Tom Clancy''s The Division', 'Massive Entertainment', 6, 'Intel Core i5-2400 | AMD FX-6100, or better', 'Windows'
+379720, 'Game', 05/12/2016, 000059.99, 'DOOM', 'id Software', 8, 'Intel Core i5-2400/AMD FX-8320 or better', 'Windows'
+391220, 'Game', 02/09/2016, 000059.99, 'Rise of the Tomb Raider: 20 Year Celebration', 'Crystal Dynamics', 6, 'Intel Core i3-2100 or AMD equivalent', 'Windows'
 
 DLC:
 
