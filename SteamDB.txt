@@ -15,7 +15,7 @@ Added Jingle Jam 2016 community medals
 Fixed Casual mode search criteria sometimes not loading properly when starting the game
 Updated the Unusual Cap to support Unusual taunt particle effects
 Unusual taunt effects now follow the player during taunts where the player moves'
-258250, 'Steam Autumn Sale 2016 - Introducing The', 11/23/2016, 'The Steam Autumn Sale 2016 starts now, with great deals across the Steam catalog throughout Black Friday and Cyber Monday*. Come back every day to see new featured titles, or check out the games that are recommended for you. 
+258250, 'Steam Autumn Sale 2016 - Introducing The', 11/23/2016, 'The Steam Autumn Sale 2016 starts now, with great deals across the Steam catalog throughout Black Friday and Cyber Monday*. Come back every day to see new featured titles, or check out the games that are recommended for you.
 
 In addition to discounts on thousands of great games, join the nomination process for the Steam Awards. Nominate your favorite games across a variety of categories, and earn profile XP and badges for participating! Your nominations will help determine the finalists for each category. In December, you can vote on the winners for each category during the Steam Winter Sale. Learn more about the Steam Awards here.
 
@@ -29,9 +29,9 @@ Four years after society was ripped apart by undead hands, pockets of civilizati
 *Offer ends at 10AM Pacific Time'
 258150, 'Now Available on Steam - Dishonored 2', 11/22/2106, 'Dishonored 2 is Now Available on Steam!
 
-Dishonored 2 has been updated to version 1.2 that includes many performance and optimization improvements. More details are here. 
+Dishonored 2 has been updated to version 1.2 that includes many performance and optimization improvements. More details are here.
 
-Reprise your role as a supernatural assassin in Dishonored 2. 
+Reprise your role as a supernatural assassin in Dishonored 2.
 
 Praised by PC Gamer as “brilliant”, IGN as “amazing” and “a super sequel, IGN as “amazing” and “a superb sequel”, declared a “masterpiece” by Eurogamer, and hailed “a must-play revenge tale among the best in its class” by Game Informer, Dishonored 2 is the follow up to Arkane Studio''s first-person action blockbuster and winner of more than 100 "Game of the Year" awards, Dishonored.'
 257130, 'Now Available on Steam - Saints Row IV n', 11/22/2016, 'Saints Row IV now supports Workshop and is 75% off!*
@@ -176,15 +176,39 @@ Game:
 355150, 'Game', 03/30/2015, 000001.99, 'Gravilon', 'gravdev', 1, 'Dual-core 1.2gHz', 'Windows, Mac, Linux'
 396890, 'Game', 12/29/2015, 000000.99, 'Gridworld', 'DopplerFrog', 8, '2.0 Ghz Quad Core CPU', 'Windows, Linux'
 206190, 'Game', 06/03/2013, 000009.99, 'Gunpoint', 'Suspicious Developments', 1, '2GHz', 'Windows, Mac, Linux'
-
-, 'Game', //, 000000.00, '', '', , '', ''
-, 'Game', //, 000000.00, '', '', , '', ''
-, 'Game', //, 000000.00, '', '', , '', ''
-, 'Game', //, 000000.00, '', '', , '', ''
-, 'Game', //, 000000.00, '', '', , '', ''
-, 'Game', //, 000000.00, '', '', , '', ''
-, 'Game', //, 000000.00, '', '', , '', ''
-
+244210, 'Game', 12/19/2014, 000029.99, 'Assetto Corsa', 'Kunos Simulazioni', 2, 'AMD Athlon X2 2.8 GHZ, Intel Core 2 Duo 2.4 GHZ ', 'Windows'
+201810, 'Game', 05/19/2014, 000019.99, 'Wolfenstein: The New Order', 'Machine Games', 4, 'Intel Core i7 or equivalent AMD', 'Windows'
+233450, 'Game', 10/06/2015, 000029.99, 'Prison Architect Standard', 'Introversion Software', 4, '2009 era Macbook Pro, Core2 Duo processor ', 'Windows, Mac, Linux'
+255710, 'Game', 03/10/2015, 000029.99, 'Cities: Skylines', 'Colossal Order Ltd.', 4, 'Intel Core 2 Duo, 3.0GHz', 'Windows, Mac, Linux'
+326460, 'Game', 03/11/2015, 000006.99, 'ShellShock Live', 'kChamp Games', 1, 'Intel Core 2 Duo or above', 'Windows, Mac, Linux'
+436320, 'Game', 06/14/2016, 000039.99, 'Raw Data', 'Survios', 8, 'Intel i5-4590', 'Windows'
+311800, 'Game', 07/09/2014, 000014.99, 'Black Ice', 'Super Duper Garrett Cooper', 2, 'Core i3', 'Windows, Mac, Linux'
+368340, 'Game', 05/15/2016, 000019.99, 'CrossCode', 'Radical Fish Games', 2, '2Ghz dual Core', 'Windows, Mac, Linux'
+413150, 'Game', 02/26/2016, 000014.99, 'Stardew Valley', 'ConcernedApe', 2, '2 Ghz', 'Windows, Mac, Linux'
+264200, 'Game', 03/03/2014, 000004.99, 'One Finger Death Punch', 'Silver Dollar Games', 1, '2.0 GHz+ Dual Core Processor or higher', 'Windows'
+420110, 'Game', 02/19/2016, 000009.99, 'NEKOPARA Vol. 2', 'NEKO WORKs', 1, '1.8 GHz Pentium 4', 'Windows'
+400910, 'Game', 01/28/2016, 000017.99, 'Rabi-Ribi', 'CreSpirit', 1, '1.0 GHz or above', 'Windows'
+341800, 'Game', 10/08/2015, 000014.99, 'Keep Talking and Nobody Explodes', 'Steel Crate Games', 1, '1.5GHz Intel Processor', 'Windows, Mac'
+388210, 'Game', 03/21/2016, 000014.99, 'Day of the Tentacle Remastered', 'Double Fine Productions', 2, 'Intel Core Duo', 'Windows, Mac, Linux'
+425580, 'Game', 06/05/2016, 000004.99, 'The Room Two', 'Fireproof Games', 2, 2.0 Ghz Dual Core Processor', 'Windows'
+324160, 'Game', 11/23/2015, 000049.99, 'CLANNAD HD Edition', 'VisualArts/Key', 1, '1.2 Ghz', 'Windows'
+265610, 'Game', 02/25/2014, 000011.99, 'Epic Battle Fantasy 4', 'Matt Roszak', 2, '2.0 GHz Dual Core', 'Windows'
+412830, 'Game', 09/08/2016, 000034.99, 'STEIN;GATE', 'MAGES.INC.', 4, 'Core i3 of Sandy Bridge generation or better', 'Windows'
+230270, 'Game', 08/25/2016, 000014.99, 'N++', 'Metanet Software Inc.', 2, 'Core i3 / AMD A6 2.4 Ghz', 'Windows'
+227300, 'Game', 01/16/2013, 000019.99, 'Euro Truck Simulator 2', 'SCS Softawre', 4, 'Dual core CPU 2.4 Ghz', 'Windows, Mac, Linux'
+238460, 'Game', 05/15/2014, 000014.99, 'BattleBlock Theater', 'The Behemoth', 2, '2.5 GHz Intel Core 2 Duo or Better', 'Windows, Mac, Linux'
+207610, 'Game', 04/24/2012, 000024.99, 'The Walking Dead', 'Telltale Games', 4, '2.3 Ghz Intel', 'Windows, Mac'
+205100, 'Game', 10/08/2012, 000009.99, 'Dishonored', 'Arkane Studios', 3, '3.0Ghz dual core or better', 'Windows'
+213670, 'Game', 03/03/2014, 000029.99, 'South Park; The Stick of Truth', 'Obsidian Entertainment', 2, 'Intel Pentium Deal-Core E2180 @ 2.0 GHz or AMD Athlon64 X2 3800+ @ 2.0 GHz', 'Windows'
+206440, 'Game', 11/01/2011, 000009.99, 'To The Moon', 'Freebird Games', 1, 'Intel Pentium III 800 MHz', 'Windows, Mac, Linux'
+107100, 'Game', 08/16/2011, 000014.99, 'Bastion', 'Supergiant Games', 2, '1.7 GHz Dual Core or Greater', 'Windows, Mac, Linux'
+274190, 'Game', 10/15/2015, 000014.99, 'Broforce', 'Free Lives', 8, '2.8GHz Intel Core 2 Duo or better', 'Windows, Mac, Linux'
+221640, 'Game', 11/27/2012, 000002.99, 'Super Hexagon', 'Terry Cavanagh', 1, '2Ghz', 'Windows, Mac, Linux'
+250320, 'Game', 10/11/2013, 000024.99, 'The Wolf Among Us', 'Telltale Games', 4, '2.3 Ghz Intel', 'Windows, Mac'
+214560, 'Game', 10/16/2012, 000014.99, 'Mark of the Ninja', 'Klei Entertainment', 2, '2.4 GHz', 'Windows, Mac, Linux'
+206190, 'Game', 06/03/2013, 000009.99, 'Gunpoint', 'Suspicious Developments', 1, '2Ghz', 'Windows, Mac, Linux'
+434570, 'Game', 02/01/2016, 000000.99, 'Blood and Bacon', 'Big Corporation', 1, '1.2 GHz Pentium 4 Minimum', 'Windows'
+231160, 'Game', 05/30/2013, 000014.99, 'The Swapper', 'Olli Harjola', 1, 'Dual Core CPU', 'Windows, Mac, Linux'
 
 DLC:
 
@@ -203,6 +227,11 @@ Curator:
 'FRANKIEonPCin1080p', 271967
 'Vantom Giveaway', 15197
 'SirAlexander's Review Club', 3100
+'Anime 1.0', 171411
+'/r/pcmasterrace Group', 268967
+'Rock, Paper, Shotgun', 178114
+'PsiSyndicate', 22116
+'Ohmwrecker - The Masked Gamer Official Group', 20284
 
 CuratorGame:
 'PC Gamer', 289070, 'Game', 'Sight, sound, and systems harmonize to make Civilization 6 the liveliest, most engrossing, most rewarding 4X in any corner of the earth.'
@@ -217,7 +246,7 @@ CuratorGame:
 'techRaptor', 448370, 'If you adore turret segments more than anything, love grinding, and have an absolute hate-on for ISIS then IS Defense is the video game for you.'
 'Kotaku Recommends', 283160, 'In addition to all the other things it does well, House of the Dying Sun also happens to be a sensational virtual reality game.'
 'Kotaku Recommends', 236870, 'Throughout the last eight months, Hitman has gone from an enjoyable dalliance to a minor obsession to a bona fide stealth classic.'
-'Immortal HD's Top Picks', 374320, 'It's like 1 and 2 but not really. At least you'll still remember the controls? Also I saw a crab in the trailer lol. Looks cool.'
+'Immortal HD's Top Picks', 374320, 'It''s like 1 and 2 but not really. At least you'll still remember the controls? Also I saw a crab in the trailer lol. Looks cool.'
 'Immortal HD's Top Picks', 379720, 'This is probably going to be sick. I will literally throw up playing it.'
 'FRANKIEonPCin1080p', 242860, 'TRENCH SNIPER! - Verdun (War Stories)'
 'FRANKIEonPCin1080p', 274940, 'SHARK ATTACK! - Depth'
@@ -225,8 +254,16 @@ CuratorGame:
 'Vantom Giveaway', 322500, 'SUPERHOT is SUPERGOOD! A unique time manipulation mechanic and a short but pleasing story make for an absolute amazing experience. Buy on sale.'
 'SirAlexander's Review Club', 421040, 'Do you like clicker games? Then this is one for you. Super cute, super relaxing and no pay to win with lovely background music. This clicker has it all!'
 'SirAlexander's Review Club', 408650, 'A wonderfull puzzle game with a wink to the portal games. With a lovely narrator on your side this game is worth playing. Can you solve all the puzzles?'
-
-CuratorVideo:
+'Anime 1.0', 312560, 'Might seem a bit dated graphically, but its got a a great feel to it. Solid combat with nice old school rpg fun-hidden chests, upgrades ect.'
+'Anime 1.0', 443810, 'Heavily story driven police management sim. Gameplay is focused around improving your officers and being selective about who to send to what calls.'
+'/r/pcmasterrace Group', 377160, 'A good action game that will keep you entertained for many hours but whose utterly watered down RPG elements are not what Fallout fans craved for.'
+'/r/pcmasterrace Group', 493340, 'An exciting gift not only for those who still hadn't a reason to stop playing Roller Coaster Tycoon 1/2/3 but also for all fans of the management genre.'
+'Rock, Paper, Shotgun', 516750, 'A game about flipping strangers the bird, dying in pointless crashes or sitting in a sauna to remove grease while drinking from a crate of warm beer.'
+'Rock, Paper, Shotgun', 482730, 'A much better game than last year’s edition, and the most visually appealing game in the series.'
+'PsiSyndicate', 346110, 'Dinosaurs.'
+'PsiSyndicate', 264710, 'Deep sea survival by a reputable development team, fun times, go dive in!'
+'Ohmwrecker - The Masked Gamer Official Group', 327030, 'Hands down the best Worms game to come out since Armageddon / WWP! I do miss stuff like the water weapons / mechanics but WMD is a big step forward.'
+'Ohmwrecker - The Masked Gamer Official Group', 381210, 'Ever wanted to experience the tension of a horror movie in a game? Dead by Daylight delivers, hands down my favorite multiplayer game of 2016 thus far!'
 
 SaleEventNews:
 
@@ -241,3 +278,23 @@ VideoNews:
 SystemRequirements:
 
 SupportsHardware:
+378700, 358040
+504560, 358040
+460580, 358040
+370140, 358040
+503150, 358040
+405670, 358040
+426240, 358040
+501220, 358040
+467480, 358040
+554470, 358040
+428080, 358040
+528550, 358040
+558060, 358040
+559010, 358040
+551750, 358040
+544880, 358040
+553450, 358040
+556770, 358040
+560960, 358040
+553590, 358040
