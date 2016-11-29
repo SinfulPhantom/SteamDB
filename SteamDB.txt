@@ -182,10 +182,10 @@ Curator:
 'Just Good PC Games', 291164
 'TechRaptor', 11069 
 'Kotaku Recommends', 71669
-'Immortal HD's Top Picks', 24753
+'Immortal HD''s Top Picks', 24753
 'FRANKIEonPCin1080p', 271967
 'Vantom Giveaway', 15197
-'SirAlexander's Review Club', 3100
+'SirAlexander''s Review Club', 3100
 
 CuratorGame:
 'PC Gamer', 289070, 'Game', 'Sight, sound, and systems harmonize to make Civilization 6 the liveliest, most engrossing, most rewarding 4X in any corner of the earth.'
@@ -200,14 +200,14 @@ CuratorGame:
 'techRaptor', 448370, 'If you adore turret segments more than anything, love grinding, and have an absolute hate-on for ISIS then IS Defense is the video game for you.'
 'Kotaku Recommends', 283160, 'In addition to all the other things it does well, House of the Dying Sun also happens to be a sensational virtual reality game.'
 'Kotaku Recommends', 236870, 'Throughout the last eight months, Hitman has gone from an enjoyable dalliance to a minor obsession to a bona fide stealth classic.'
-'Immortal HD's Top Picks', 374320, 'It's like 1 and 2 but not really. At least you'll still remember the controls? Also I saw a crab in the trailer lol. Looks cool.'
-'Immortal HD's Top Picks', 379720, 'This is probably going to be sick. I will literally throw up playing it.'
+'Immortal HD''s Top Picks', 374320, 'It''s like 1 and 2 but not really. At least you''ll still remember the controls? Also I saw a crab in the trailer lol. Looks cool.'
+'Immortal HD''s Top Picks', 379720, 'This is probably going to be sick. I will literally throw up playing it.'
 'FRANKIEonPCin1080p', 242860, 'TRENCH SNIPER! - Verdun (War Stories)'
 'FRANKIEonPCin1080p', 274940, 'SHARK ATTACK! - Depth'
 'Vantom Giveaway', 504370, 'Arena pvp in WoW but without having to own the best gear in the game to do well. With tight gameplay, balanced characters and plenty of glory to be had.'
 'Vantom Giveaway', 322500, 'SUPERHOT is SUPERGOOD! A unique time manipulation mechanic and a short but pleasing story make for an absolute amazing experience. Buy on sale.'
-'SirAlexander's Review Club', 421040, 'Do you like clicker games? Then this is one for you. Super cute, super relaxing and no pay to win with lovely background music. This clicker has it all!'
-'SirAlexander's Review Club', 408650, 'A wonderfull puzzle game with a wink to the portal games. With a lovely narrator on your side this game is worth playing. Can you solve all the puzzles?'
+'SirAlexander''s Review Club', 421040, 'Do you like clicker games? Then this is one for you. Super cute, super relaxing and no pay to win with lovely background music. This clicker has it all!'
+'SirAlexander''s Review Club', 408650, 'A wonderfull puzzle game with a wink to the portal games. With a lovely narrator on your side this game is worth playing. Can you solve all the puzzles?'
 
 CuratorVideo:
 
