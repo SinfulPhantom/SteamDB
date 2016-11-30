@@ -122,7 +122,7 @@ Video:
 495410, 'Kikoriki', 'TV Series', TO_DATE('05-07-2004', 'MM-DD-YYYY'), 000009.99
 528810, 'Crunch Time', 'Web Series', TO_DATE('09-13-2016', 'MM-DD-YYYY'), 000011.94
 549290, 'Con Man', 'Web Series', TO_DATE('11-08-2016', 'MM-DD-YYYY'), 000010.01
-518200, 'Stand Up Empire', 'Web Series', 06-06-2016, 000007.96
+518200, 'Stand Up Empire', 'Web Series', TO_DATE('06-06-2016', 'MM-DD-YYYY'), 000007.96
 518220, 'X-ray & Vav: Seasons 1 & 2', 'Web Seires', TO_DATE('01-01-2015', 'MM-DD-YYYY'), 000009.99
 517030, 'The Adventures of Super Mario Bros. 3', 'TV Series', TO_DATE('01-01-1989', 'MM-DD-YYYY'), 000025.87
 418380, 'The Color Out of Space', 'Feature Film', TO_DATE('08-21-2012', 'MM-DD-YYYY'), 000005.99
