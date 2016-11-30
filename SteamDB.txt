@@ -321,8 +321,8 @@ Curator:
 'Ohmwrecker - The Masked Gamer Official Group', 20284
 
 CuratorGame:
-'PC Gamer', 251570, 'Game', 'Sight, sound, and systems harmonize to make Civilization 6 the liveliest, most engrossing, most rewarding 4X in any corner of the earth.'
-'PC Gamer', 385200, 'A total assault on your ears, eyes and reflexes. Thumper will beat you up, but you’ll enjoy it.'
+'PC-Gamer', 251570, 'Game', 'Sight, sound, and systems harmonize to make Civilization 6 the liveliest, most engrossing, most rewarding 4X in any corner of the earth.'
+'PC-Gamer', 385200, 'A total assault on your ears, eyes and reflexes. Thumper will beat you up, but you’ll enjoy it.'
 '/r/ultrawidemasterrace Group', 320140, 'Native 21:9 support.'
 '/r/ultrawidemasterrace Group', 003730, 'Native ultrawide support during gameplay. Many UI elements locked at 16:9, or cropped. Cutscenes are 16:9. '
 'Critiquing Doge', 010680, 'Many beats. Such rhythm. Very energizing. 10/10 paws.'
