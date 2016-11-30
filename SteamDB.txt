@@ -491,8 +491,6 @@ CuratorGame:
 'Ohmwrecker - The Masked Gamer Official Group', 466740, 'Hands down the best Worms game to come out since Armageddon / WWP! I do miss stuff like the water weapons / mechanics but WMD is a big step forward.'
 'Ohmwrecker - The Masked Gamer Official Group', 547410, 'Ever wanted to experience the tension of a horror movie in a game? Dead by Daylight delivers, hands down my favorite multiplayer game of 2016 thus far!'
 
-CuratorVideo:
-
 SaleEventNews:
 
 SoftwareNews:
