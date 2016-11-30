@@ -494,12 +494,23 @@ CuratorGame:
 SaleEventNews:
 
 SoftwareNews:
+258420, 452760
+258250, 453450
+258160, 538130
+257130, 441160
+257880, 421450
+257780, 421460
+257530, 421540
+257660, 387660
+506410, 387590
+542150, 426500
 
 HardwareNews:
 
 GamesNews:
 
 VideoNews:
+506410,
 
 SystemRequirements:
 
