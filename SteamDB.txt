@@ -118,15 +118,15 @@ Planet Coaster® - the future of coaster park simulation games has arrived! Surp
 25696, 'Pre-Purchase Now - Total War: WARHAMMER ', 11/17/2016, 'Total War: WARHAMMER - Realm of The Wood Elves is Now Available for Pre-Purchase on Steam and is 10% off!*
 
 The Realm of the Wood Elves includes:
-New Wood Elves Race in the Grand Campaign 
-New additional Race-specific currency: Amber 
-Wonder-based Campaign victory condition 
-Wood Elves may conquer any region on the map 
-Two New Playable Legendary Lords: Orion and Durthu 
-Two new Lord types with deep-specialisation skill trees 
-Three new Hero types with deep-specialisation skill trees 
-Comprehensive Wood Elves army roster 
-Adds an additional campaign map to the game with the unique ‘Season of Revelations’ Wood Elves story Campaign 
+New Wood Elves Race in the Grand Campaign
+New additional Race-specific currency: Amber
+Wonder-based Campaign victory condition
+Wood Elves may conquer any region on the map
+Two New Playable Legendary Lords: Orion and Durthu
+Two new Lord types with deep-specialisation skill trees
+Three new Hero types with deep-specialisation skill trees
+Comprehensive Wood Elves army roster
+Adds an additional campaign map to the game with the unique ‘Season of Revelations’ Wood Elves story Campaign
 New Unique Monsters, Heroes, Magic and Game Features
 *Discount ends when content is released.'
 
@@ -417,16 +417,16 @@ Game:
 '391220', 'Game', 02/09/2016, 000059.99, 'Rise of the Tomb Raider: 20 Year Celebration', 'Crystal Dynamics', 6, 'Intel Core i3-2100 or AMD equivalent', 'Windows'
 
 DLC:
-'304380', 000011.99, 11/04/2014, '107410'
-'288520', 000001.99, 05/29/2014, '107410'
-'033934', 000008.99, 09/12/2012, '033910'
-'226880', 000019.99, 02/05/2013, '072850'
-'220760', 000004.99, 10/04/2013, '072850'
-'211720', 000019.99, 08/02/2013, '072850'
-'202485', 000000.00, 02/07/2012, '072850'
-'216411', 000000.99, 11/19/2012, '203140'
-'216417', 000000.99, 11/19/2012, '203140'
-'216421', 000000.99, 11/19/2012, '203140'
+'251570', 000011.99, 11/04/2014, '107410'
+'107100', 000001.99, 05/29/2014, '107410'
+'274190', 000008.99, 09/12/2012, '033910'
+'221640', 000019.99, 02/05/2013, '072850'
+'250320', 000004.99, 10/04/2013, '072850'
+'214560', 000019.99, 08/02/2013, '072850'
+'206190', 000000.00, 02/07/2012, '072850'
+'434570', 000000.99, 11/19/2012, '203140'
+'231160', 000000.99, 11/19/2012, '203140'
+'365590', 000000.99, 11/19/2012, '203140'
 
 VideoGenre:
 
