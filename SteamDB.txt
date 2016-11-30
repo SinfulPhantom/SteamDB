@@ -494,6 +494,12 @@ CuratorGame:
 SaleEventNews:
 
 SoftwareNews:
+
+HardwareNews:
+
+GamesNews:
+
+VideoNews:
 258420, 452760
 258250, 453450
 258160, 538130
@@ -504,13 +510,6 @@ SoftwareNews:
 257660, 387660
 506410, 387590
 542150, 426500
-
-HardwareNews:
-
-GamesNews:
-
-VideoNews:
-506410,
 
 SystemRequirements:
 
