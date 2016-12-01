@@ -54,6 +54,9 @@ News:
 023698, 'Daily Deal - Kerbal Space Program, 50% Off', TO_DATE('8-27-2016', 'MM-DD-YYYY'), 'Todays Deal: Save 50% on Kerbal Space Program!'
 022562, 'Now Free on Steam for a Limited Time - LIMBO', TO_DATE('06-21-2016', 'MM-DD-YYYY'), 'Add LIMBO to your account and play for FREE starting now until June 22nd at 10AM Pacific Time! Once you add the game it will remain in your account after the free period, so dont miss out on this opportunity to play this dark, eerie adventure.'
 025713, 'Now Available on Steam - Saints Row IV now supports Workshop and is 75% off!', TO_DATE('02-14-2016', 'MM-DD-YYYY'), 'Saints Row 4 is now on sale!'
+024652, 'Daily Deal - SPINTIRES™, 60% Off', TO_DATE('08-05-2016', 'MM-DD-YYYY'), 'Look for the deals each day on the front page of Steam. Or follow us on twitter or Facebook for instant notifications wherever you are!'
+023463, 'Free Weekend - Goat Simulator', TO_DATE('08-11-2016', 'MM-DD-YYYY'), 'Play Goat Simulator for free, from now until Sunday at 1pm Pacific Time!' 
+013533, 'Sniper Elite V2 - FREE FOR 24 HOURS!', TO_DATE('06-04-2014', 'MM-DD-YYYY'), 'Sniper Elite V2 is FREE today only on Steam!'
 
 Video:
 506410, 'Our Kind of Traitor', 'Feature Film', TO_DATE('10-04-2016', 'MM-DD-YYYY'), 000019.29
@@ -160,6 +163,15 @@ Video:
 
 SaleEvent:
 'Steam Autumn Sale 2016', 'Seasonal',  6, ’NULL’, 075
+'Spintires', 'Daily Deal',  2, ’NULL’, 060
+'Steam Winter Sale 2015', 'Seasonal',  6, ’NULL’, 075
+'Sniper Elite V2', 'Special',  1, ’NULL’, 100
+'Steam Summer Sale 2016', 'Seasonal',  6, ’NULL’, 090
+'Black Friday', 'Special',  2, ’NULL’, 090
+'Limbo', 'Special',  1, ’NULL’, 100
+'Steam Spring Sale 2016', 'Seasonal',  6, ’NULL’, 085
+'Kerbal Space Program', 'Special',  2, ’NULL’, 075
+'Steam Autumn Sale 2014', 'Seasonal',  6, ’NULL’, 095
 
 Game:
 251570, 'Game', TO_DATE('12-13-2013', 'MM-DD-YYYY'), 000024.99, '7 Days to Die', 'The Fun Pimps', 4, '2.4 Ghz Dual Core CPU', 'Windows'
@@ -433,6 +445,9 @@ SaleEventNews:
 257030, 'Daily Deal - EVE Online - Core Starter P'
 023698, 'Daily Deal - Kerbal Space Program, 50% Off'
 022562, 'Now Free on Steam for a Limited Time - LIMBO'
+024652, 'Daily Deal - SPINTIRES™, 60% Off' 
+023463, 'Free Weekend - Goat Simulator'
+013533, 'Sniper Elite V2 - FREE FOR 24 HOURS!'
 
 SoftwareNews:
 431730, 128574
@@ -469,55 +484,7 @@ HardwareNews:
 358040, 574832
 
 GamesNews:
-241240, 651124
-000010, 112291
-000080, 823453
-000100, 492790
-000730, 973562
-000240, 862709
-011390, 330369
-000030, 999214
-000300, 940172
-221100, 884088
-466740, 051653
-547410, 973686
-211500, 442756
-551750, 527088
-502300, 143633
-552660, 080672
-556710, 920827
-553500, 341322
-544290, 197312
-528640, 930091
-550240, 576863
-548950, 035902
-017470, 829947
-047780, 351612
-000040, 201237
-224600, 892852
-096100, 145048
-238010, 991343
-321040, 320016
-239140, 711916
-072850, 327622
-489830, 229629
-377160, 357693
-013520, 801261
-220240, 308689
-233270, 397565
-246840, 784631
-276890, 098945
-391270, 471284
-242760, 105325
-310380, 165857
-268650, 726022
-004000, 196036
-265930, 413817
-332500, 701170
-355150, 204736
-396890, 916305
-206190, 113944
-295110, 329487
+
 
 VideoNews:
 506410, 351335
